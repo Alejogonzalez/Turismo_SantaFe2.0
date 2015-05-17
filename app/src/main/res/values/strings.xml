@@ -1,6 +1,54 @@
 <resources>
     <string name="app_name">Turismo_SantaFe2.0</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">SPLASH</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">splash</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotels">Hoteles</string>
+    <string name="hotel1">APARTA HOTEL EL PASO \n
+        Cra. 10 # 16-32 \nLlano de Bolívar\n
+        Teléfonos: (4)853 27 51 \n
+        Móvil: 314 735 34 54 \n
+        hotelensantafedeantioquia\n@hotmail.com\n
+        Solárium Jacuzzi
+        Bar y Licor nacional
+        Wi - Fi Parqueadero
+        Habitaciones dotadas de aire acondicionado y TV por cable Zona de bronceo Baño independiente</string>
+    <string-array name="planets_array">
+        <item>El Paso</item>
+        <item>San Angel</item>
+        <item>Portón del Sol</item>
+    </string-array>
+    <string name="hotel2">
+        100 metros después de la “Y” de la entrada a
+        Santa Fe de Antioquia - Colombia\n
+        Tel. (57-4) 853 15 73\n
+        Cel. 312 287 23 84
+        www.fincahotelsanangel.com\n
+        Habitaciones con aire acondicionado
+        Piscina Turco
+        Spa Kiosko con hamacas
+        Restaurante Parrilla - Bar
+        Eventos Empresariales, Sociales y Familiares
+        Salón de Juegos Parqueadero Zona Wi-Fi
+    </string>
+    <string name="hotel3">
+        Paso Real\n
+        Santa Fe de Antioquia - Colombia\n
+        Tel.(57-4) 448 35 10\n
+        Cel. 311 336 13 34\n
+        www.portondelsol.com\n
+        Zonas de bronceo dentro y fuera del agua
+        2 jacuzzis Bar en el agua
+        Turco Bar Spa Guardería canina
+        Caballos Bar - Restaurante
+        Juegos infantiles
+        Salón de Juegos
+        Juegos Infantiles
+        Canchas de Fútbol y Voleibol
+        Servicio de Bicicletas
+    </string>
 </resources>
