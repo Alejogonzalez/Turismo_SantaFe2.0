@@ -20,9 +20,9 @@ public class bares extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_hoteles, container,
+        View rootView = inflater.inflate(R.layout.fragment_bares, container,
                 false);
-        final Spinner listah = (Spinner) rootView.findViewById(R.id.listahoteles);
+        final Spinner listah = (Spinner) rootView.findViewById(R.id.listabares);
         final ImageView img1 = (ImageView) rootView.findViewById(R.id.img1);
         final ImageView img2 = (ImageView) rootView.findViewById(R.id.img2);
         final ImageView titulo = (ImageView)rootView.findViewById(R.id.imgtitulo);

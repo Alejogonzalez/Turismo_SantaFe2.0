@@ -44,6 +44,12 @@ public class MainActivity extends ActionBarActivity {
             fragmentTransaction.replace(android.R.id.content, fragment).commit();
             return true;
         }
+        if (id == R.id.turism) {
+            turismo fragment = new turismo();
+            fragmentTransaction.replace(android.R.id.content, fragment).commit();
+            return true;
+        }
+
 
         return super.onOptionsItemSelected(item);
     }
