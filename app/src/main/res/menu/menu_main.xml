@@ -4,4 +4,16 @@
     <item android:id="@+id/hoteles"
         android:title="@string/hotels"
       />
+    <item android:id="@+id/bares"
+        android:title="@string/title_activity_bares"
+        />
+    <item android:id="@+id/turism"
+        android:title="@string/title_activity_turismo"
+        />
+    <item android:id="@+id/info"
+        android:title="@string/title_activity_informacion"
+        />
+    <item android:id="@+id/aboutus"
+        android:title="@string/about"
+        />
 </menu>

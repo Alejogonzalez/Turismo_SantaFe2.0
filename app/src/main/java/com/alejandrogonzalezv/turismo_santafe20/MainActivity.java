@@ -39,6 +39,11 @@ public class MainActivity extends ActionBarActivity {
             fragmentTransaction.replace(android.R.id.content, fragment).commit();
             return true;
         }
+        if (id == R.id.bares) {
+            bares fragment = new bares();
+            fragmentTransaction.replace(android.R.id.content, fragment).commit();
+            return true;
+        }
 
         return super.onOptionsItemSelected(item);
     }
