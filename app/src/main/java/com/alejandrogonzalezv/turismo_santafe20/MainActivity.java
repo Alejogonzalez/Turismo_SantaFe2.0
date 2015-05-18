@@ -49,8 +49,16 @@ public class MainActivity extends ActionBarActivity {
             fragmentTransaction.replace(android.R.id.content, fragment).commit();
             return true;
         }
-
-
+        if (id == R.id.info) {
+            info fragment = new info();
+            fragmentTransaction.replace(android.R.id.content, fragment).commit();
+            return true;
+        }
+        if (id == R.id.aboutus) {
+            aboutus fragment = new aboutus();
+            fragmentTransaction.replace(android.R.id.content, fragment).commit();
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Turismo_SantaFe2.0</string>
+    <string name="app_name">Santa Fe de Antioquia 2.0</string>
 
     <string name="hello_world">SPLASH</string>
     <string name="action_settings">Settings</string>
@@ -138,4 +138,5 @@
         -CAMINATAS\n
         -RUTAS ECOTURISTICAS\n
     </string>
+    <string name="aboutext">Turismo Santa Fe de Antioquia\nDesarrollado por Alejandro González Varela</string>
 </resources>
